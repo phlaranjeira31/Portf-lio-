@@ -8,7 +8,7 @@ export default function Skills() {
       </p>
 
       <div className="skills-grid">
-        {/* CARD EM DESTAQUE */}
+        {}
         <article className="skill-card skill-card-featured">
           <h3 className="skill-title">Stack principal</h3>
           <p className="skill-description">
@@ -24,7 +24,7 @@ export default function Skills() {
           </div>
         </article>
 
-        {/* DEMAIS CARDS */}
+        {}
         <article className="skill-card">
           <h3 className="skill-title">Backend & APIs</h3>
           <p className="skill-description">

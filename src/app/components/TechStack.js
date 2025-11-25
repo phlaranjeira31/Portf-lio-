@@ -1,5 +1,3 @@
-// src/app/components/TechStack.js
-
 import React from "react";
 import {
   FaHtml5,
@@ -16,7 +14,6 @@ import {
   SiMysql,
   SiOpenai,
 } from "react-icons/si";
-
 const techs = [
   { name: "HTML", icon: <FaHtml5 /> },
   { name: "CSS", icon: <FaCss3Alt /> },
@@ -31,7 +28,6 @@ const techs = [
   { name: "APIs", icon: <FaJsSquare /> },
   { name: "IA", icon: <SiOpenai /> },
 ];
-
 export default function TechStack() {
   return (
     <section className="tech-section">

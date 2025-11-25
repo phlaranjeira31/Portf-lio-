@@ -1,5 +1,3 @@
-// src/app/components/Navbar.js
-
 "use client";
 
 import Link from "next/link";
@@ -9,7 +7,7 @@ export default function Navbar() {
   return (
     <header className="navbar">
       <div className="navbar-inner">
-        {/* Lado esquerdo: foto + nome + título */}
+        {}
         <div className="navbar-left">
           <div className="navbar-profile">
             <Image
@@ -30,7 +28,7 @@ export default function Navbar() {
           </div>
         </div>
 
-        {/* Lado direito: links de navegação */}
+        {}
         <nav className="navbar-right">
           <Link href="#about" className="navbar-link">
             Sobre

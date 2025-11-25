@@ -9,7 +9,7 @@ export default function Projects() {
       </p>
 
       <div className="projects-grid">
-        {/* PROJETO EM DESTAQUE */}
+        {}
         <article className="project-card project-card-featured">
           <header className="project-card-header">
             <div>
@@ -38,7 +38,7 @@ export default function Projects() {
           </div>
         </article>
 
-        {/* DEMAIS PROJETOS */}
+        {}
         <article className="project-card">
           <header className="project-card-header">
             <div>

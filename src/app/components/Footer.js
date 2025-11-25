@@ -7,7 +7,7 @@ export default function Footer() {
   return (
     <footer className="footer">
 
-      {/* Foto + Card */}
+      {}
       <div className="footer-hero-info">
         <Image
           src="/perfil-pedro.jpg"
@@ -23,7 +23,7 @@ export default function Footer() {
         </div>
       </div>
 
-      {/* Ícones sociais */}
+      {}
       <div className="footer-social">
         <a
           href="https://www.linkedin.com/in/pedro-henrique-laranjeira31"

@@ -1,6 +1,3 @@
-
-// src/app/components/Hero.js
-
 import React from "react";
 import TechStack from "./TechStack";
 

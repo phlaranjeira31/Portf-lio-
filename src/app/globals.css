@@ -466,7 +466,7 @@ section:last-of-type {
   object-fit: cover;
 }
 
-/* Avatar no hero (já existia) */
+
 .hero-avatar {
   width: 60px;
   height: 60px;
@@ -1015,11 +1015,6 @@ section:last-of-type {
   margin-top: 1rem;
   font-size: 0.9rem;
 }
-
-
-/* ============================
-   NAVBAR (ESTILIZAÇÃO COMPLETA)
-============================ */
 
 .navbar {
   width: 100%;
