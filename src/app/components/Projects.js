@@ -2,7 +2,7 @@ export default function Projects() {
   return (
     <section id="projects">
       <div className="section-label">projetos</div>
-      <h2 className="section-title">Projetos em que coloquei a mão na massa</h2>
+      <h2 className="section-title">Projetos desenvolvidos por mim</h2>
       <p className="section-subtitle">
         Uma visão clara do tipo de solução que eu já desenvolvi: sistemas reais,
         automação e integrações com IA.
